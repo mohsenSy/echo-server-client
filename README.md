@@ -9,6 +9,7 @@ for demonstration purposes only, to build the code follow these steps:
 * `mkdir build && cd build`
 * `conan install ..`
 * `cmake ..`
+* `make`
 * `bin/server`
 * On a second terminal execute `bin/client`
 
